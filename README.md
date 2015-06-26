@@ -1,3 +1,5 @@
+# **NOTE:** Use [IFTTT Maker](https://ifttt.com/channels/maker) channel instead
+
 # ifttt-wordpress-webhook
 
 IFTTT Wordpress Webhook is a tiny package that allows a node application to expose a webhook, that can be triggered by IFTTT. It basically wraps a xmlrpc server with basic configuration, that mimics a typical wordpress server and run custom code when the method `newPost` is invoked by IFTTT.
